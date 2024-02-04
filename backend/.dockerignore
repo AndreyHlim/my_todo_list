@@ -1,6 +1,6 @@
-# .dockerignore
+# Файл .dockerignore
 venv
-.git 
+.git
 db.sqlite3
 .idea
 .vscode
